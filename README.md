@@ -1,3 +1,7 @@
+first commit of a practice. learning source from
+https://www.vuemastery.com/courses/real-world-vue3/single-file-components
+and
+https://www.youtube.com/watch?v=sSH7dndseis
 # real-world-vue
 
 ## Project setup
